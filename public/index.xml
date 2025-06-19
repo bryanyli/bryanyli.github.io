@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Bryan Li&#39;s Webpage</title>
+    <link>bryanyli.github.io/</link>
+    <description>Recent content in Home on Bryan Li&#39;s Webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="bryanyli.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>bryanyli.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>bryanyli.github.io/about/</guid>
+      <description>I am an undergraduate at UC Berkeley doing a double degree in mathematics and computer science. I am generally interested in geometry, analysis, PDEs, and mathematical physics, and especially in the intersections. However, I am also interested in other areas of math and computer science.
+I can be contacted at byli [] berkeley [] edu, where the blanks are filled in with the obvious placeholders.</description>
+    </item>
+    
+    <item>
+      <title>Expository</title>
+      <link>bryanyli.github.io/expository/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>bryanyli.github.io/expository/</guid>
+      <description>This page is a WIP.
+Here are some expository things that I have written. These are likely neither correct nor complete, but if you find any mistakes feel free to let me know.
+  Notes from the Texas A&amp;amp;M 2025 Summer School in Mathematical Physics: Will be uploaded shortly
+ Quantum Chaos and RMT: Quantum Dynamics: Grushin Problems: Slides from contributed talk (by me!): Band Crossings in Twisted Multilayer Graphene    Notes from classes:</description>
+    </item>
+    
+    <item>
+      <title>Friends</title>
+      <link>bryanyli.github.io/friends/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>bryanyli.github.io/friends/</guid>
+      <description>No friends yet :(. Just kidding</description>
+    </item>
+    
+  </channel>
+</rss>

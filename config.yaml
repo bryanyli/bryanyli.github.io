@@ -1,0 +1,27 @@
+baseurl: "bryanyli.github.io"  # please update this to your actual URL
+languageCode: "en-us"
+title: "Bryan Li's Webpage"
+theme: "xmin"
+
+permalinks:
+  note: "/note/:year/:month/:day/:slug/"
+  post: "/post/:year/:month/:day/:slug/"
+
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: About
+      url: "about/"
+      weight: 2
+    - name: Expository
+      url: "expository/"
+      weight: 3
+    - name: Friends
+      url: friends/
+      weight: 4
+
+params:
+  description: "Personal webpage"
+  footer: "Built using [Hugo](https://gohugo.io/) and the [XMin theme](xmin.yihui.org)."
