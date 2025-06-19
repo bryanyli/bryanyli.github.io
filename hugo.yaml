@@ -1,6 +1,6 @@
 baseurl: "bryanyli.github.io"  # please update this to your actual URL
 languageCode: "en-us"
-title: "A minimal Hugo website"
+title: "Bryan Li's Webpage"
 theme: "xmin"
 
 permalinks:
@@ -15,7 +15,13 @@ menu:
     - name: About
       url: "about/"
       weight: 2
+    - name: Expository
+      url: "expository/"
+      weight: 3
+    - name: Friends
+      url: friends/
+      weight: 4
 
 params:
   description: "Personal webpage"
-  footer: "Built using Yihui Xie's XMin theme."
+  footer: "Built using [Hugo](https://gohugo.io/) and the [XMin theme](xmin.yihui.org)."
