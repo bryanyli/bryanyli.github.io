@@ -24,4 +24,4 @@ menu:
 
 params:
   description: "Personal webpage"
-  footer: "Built using [Hugo](https://gohugo.io/) and the [XMin theme](xmin.yihui.org)."
+  footer: "Built using [Hugo](https://gohugo.io/) and the [XMin theme](https://xmin.yihui.org)."

@@ -19,4 +19,4 @@ Here are some expository things that I have written. These are likely neither co
     <!-- - Slides from contributed talk (by me!): Band Crossings in Twisted Multilayer Graphene -->
 
 - Miscellaneous:
-    - LLM-typeset version of notes on the [Geometry of Characteristic Classes](/static/pdfs/Chern_CC.pdf) by S.-S. Chern. Note: There are formatting errors on pages 14-15, and extra paragraph breaks inserted by the LLM that I have yet to fix.
+    - LLM-typeset version of notes on the [Geometry of Characteristic Classes](/pdfs/Chern_CC.pdf) by S.-S. Chern. Note: There are formatting errors on pages 14-15, and extra paragraph breaks inserted by the LLM that I have yet to fix.
