@@ -15,8 +15,8 @@ menu:
     - name: About
       url: "about/"
       weight: 2
-    - name: Expository
-      url: "expository/"
+    - name: Writing
+      url: "writing/"
       weight: 3
     - name: Friends
       url: friends/
